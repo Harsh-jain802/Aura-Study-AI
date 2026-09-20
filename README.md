@@ -138,8 +138,7 @@ streamlit run app.py
 ## Team
 
 Harsh Jain
-Project Developer
-Krishna Agarwal
+Project Developer &
 Frontend Developer
 ---
 
